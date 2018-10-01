@@ -1,6 +1,6 @@
 # Leaning
 This is my first git \
-git init\
+git init #create the hidden folder .git \
 git add README.md\
 git commit -m "first commit"\
 git remote add origin https://github.com/SeanWang17/bv.git \
